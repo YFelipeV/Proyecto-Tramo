@@ -1,5 +1,5 @@
-import Header from '../components/Header'
-import Footer from '../components/Footer'
+import Header from './Header'
+import Footer from './Footer'
 import fondo from '../assets/ilustraciones/fondo.jpg'
 import ilu1 from '../assets/ilustraciones/ilustracionabout1.svg'
 import ilu2 from '../assets/ilustraciones/ilustracion2.svg'

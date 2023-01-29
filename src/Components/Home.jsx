@@ -1,5 +1,5 @@
-import Header from '../components/Header'
-import Footer from '../components/Footer'
+import Header from './Header'
+import Footer from './Footer'
 import imagen1 from '../assets/ilustraciones/movil-inicio.png'
 import imagen2 from '../assets/icons/arrow-right.png'
 import company_1 from '../assets/sponsor/company-1.png'
